@@ -56,7 +56,7 @@ pip install langchain-core langchain-openai
 2. **Run the Script**
 
 ```bash
-python two_agent_code_gen.py
+python agent.py
 ```
 
 3. **Interact**
